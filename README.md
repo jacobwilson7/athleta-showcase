@@ -127,9 +127,3 @@ designed and tested here against a real dataset.
 
 The source code is maintained in a private repository. This repository documents the
 architecture, the AI design and the product decisions.
-
-## Links
-
-- **Interactive case study** — [francescoiaforte.vercel.app/en/projects/athleta](https://francescoiaforte.vercel.app/en/projects/athleta)
-- **Profile** — [github.com/francescoveryra-dot](https://github.com/francescoveryra-dot)
-- **Full portfolio** — [francescoiaforte.vercel.app](https://francescoiaforte.vercel.app)
